@@ -1,0 +1,11 @@
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\bin\Debug\员工考勤信息.exe.config
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\bin\Debug\员工考勤信息.exe
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\bin\Debug\员工考勤信息.pdb
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.csprojResolveAssemblyReference.cache
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.Form1.resources
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.Properties.Resources.resources
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.csproj.GenerateResource.Cache
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.exe
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.pdb
+c:\users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.Form2.resources
+C:\Users\90930\documents\visual studio 2012\Projects\员工考勤信息\员工考勤信息\obj\Debug\员工考勤信息.Form3.resources
